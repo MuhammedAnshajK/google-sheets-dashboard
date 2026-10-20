@@ -44,10 +44,6 @@ The `setup()` function builds the whole workbook from code: both sheets, sample 
 
 To test it, type a new number in a white cell on the Dashboard, then open the **Data** sheet. The matching row has changed. Now change a blue number on the Data sheet and go back: the dashboard and charts have updated.
 
-## Share it for your portfolio
-
-1. Click **Share** (top right), then under **General access** choose **Anyone with the link** with the role **Viewer**, and click **Copy link**. This gives you a view-only link.
-2. For a link that lets people try the two-way editing, take the link and replace `/edit...` at the end with `/copy`. Visitors then get their own copy, including the script.
 
 ## Files
 
