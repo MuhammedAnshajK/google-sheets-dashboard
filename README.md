@@ -4,7 +4,7 @@ An interactive Google Sheets dashboard where the numbers can be changed **in eit
 
 **Downloads:** [⬇ Apps Script code (Code.gs)](https://github.com/MuhammedAnshajK/google-sheets-dashboard/raw/main/Code.gs)
 
-**▶ Live copy:** _link added after setup_
+**▶ Live sheet (view only):** https://docs.google.com/spreadsheets/d/1bd9iQBiJCzf7vKXI9eyxOX23M9I11TK02naOv24R3XA/edit?usp=sharing · **✎ Make your own editable copy (to try the two-way editing):** https://docs.google.com/spreadsheets/d/1bd9iQBiJCzf7vKXI9eyxOX23M9I11TK02naOv24R3XA/copy
 
 ## What it does
 
@@ -33,7 +33,7 @@ The `setup()` function builds the whole workbook from code: both sheets, sample 
 1. Go to **sheets.google.com** and click **Blank spreadsheet**.
 2. Click the title (**Untitled spreadsheet**) at the top left and rename it `Sales Dashboard`.
 3. In the menu, click **Extensions**, then **Apps Script**. A new tab opens with a code editor.
-4. Delete the few lines already in the editor, then copy everything from [`Code.gs`](Code.gs) and paste it in.
+4. Delete the few lines already in the editor, then open the [plain-text Code.gs](https://github.com/MuhammedAnshajK/google-sheets-dashboard/raw/main/Code.gs), press Ctrl + A and Ctrl + C, and paste it in. (Copying from the normal GitHub page can pick up extra text and cause a syntax error.)
 5. Click the **Save** icon (floppy disk).
 6. In the toolbar above the code, make sure the dropdown next to **Debug** says `setup`, then click **Run**.
 7. Google asks for permission the first time:
