@@ -6,6 +6,8 @@ An interactive Google Sheets dashboard where the numbers can be changed **in eit
 
 **▶ Live sheet (view only):** https://docs.google.com/spreadsheets/d/1bd9iQBiJCzf7vKXI9eyxOX23M9I11TK02naOv24R3XA/edit?usp=sharing · **✎ Make your own editable copy (to try the two-way editing):** https://docs.google.com/spreadsheets/d/1bd9iQBiJCzf7vKXI9eyxOX23M9I11TK02naOv24R3XA/copy
 
+![Dashboard (North selected)](images/dashboard.png)
+
 ## What it does
 
 - **Dashboard sheet**
